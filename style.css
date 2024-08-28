@@ -23,3 +23,12 @@ nav {
 .radius {
     border-radius: 30px;
 }
+span.about p::first-line{
+    font-size: 25px;
+    color: rgb(95, 95, 95);
+}
+
+span.about p::first-letter{
+    font-size: 30px;
+    font-weight: bold;
+}
